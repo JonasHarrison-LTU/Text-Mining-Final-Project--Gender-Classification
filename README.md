@@ -1,6 +1,6 @@
 # Text-Mining-Final-Project--Gender-Classification
 Final Project for my text mining class. All students were given the exact same dataset and were asked to answer either the research question, What preprocessing methods are most important for improving gender bias detection? Or their own question, the question I decided to answer was Which classification method most accurately defines text as female or male. The dataset used for this study comes from the study Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation (S. Levy, K. Lazar, G. Stanvosky, Collecting a Large-Scale Gender Bias
-Dataset for Coreference Resolution and Machine Translation, 2021)
+Dataset for Coreference Resolution and Machine Translation, 2021) Included in this repository is also the paper I wrote for the project.
 
 ## Methodology
 ● 60-40 Train Test split
