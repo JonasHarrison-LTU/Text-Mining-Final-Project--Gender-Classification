@@ -4,11 +4,17 @@ Dataset for Coreference Resolution and Machine Translation, 2021)
 
 ## Methodology
 ● 60-40 Train Test split
+
 ● Preprocessing
+
 ● Convert datasets to numeric values
+
 ● Import Google News corpus
+
 ● Check dataset against Google News corpus
+
 ● Apply classification models on new data
+
 ● Select model with highest f1 score
 
 ### 60-40 Train Test split
